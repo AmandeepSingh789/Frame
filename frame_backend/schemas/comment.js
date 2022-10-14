@@ -7,6 +7,11 @@ export default{
             name:'postedBy',
             title:'PostedBy',
             type:'document'
-        }
+        },
+        {
+            name:'postedBy',
+            title:'PostedBy',
+            type:'document'
+        },
     ]
 }
